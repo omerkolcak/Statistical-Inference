@@ -12,6 +12,7 @@ The project includes 2 seperate juptyer notebook files for the data collection a
 * Statistical Inference.ipynb
 
 ## Data Collection
+
 Data is scraped from [fbref](https://fbref.com/en/) for the 23/24 and 24/25 seasons for Turkish Super League and Premier League. Data collection part consist of the following steps:
 * Scrape all of the game links
 * Sample 20 games from each season (40 games for each league)
@@ -21,4 +22,5 @@ Data is scraped from [fbref](https://fbref.com/en/) for the 23/24 and 24/25 seas
 However, it is recommended to use the provided raw data file, <b>dataset_filled.csv</b>, as the data collection process can be time-consuming and requires manual data entry.
 
 ## Statistical Inference
+
 The data visualizations and hypothesis testing results presented in the project report can be reproduced using the <b>dataset_filled.csv</b> file and the <b>Statistical Inference.ipynb</b> notebook.
